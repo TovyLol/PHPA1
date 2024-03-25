@@ -1,0 +1,16 @@
+input[type=text], select{
+    width: auto;
+    padding: 2  px 20px;
+    margin: 8px 0;
+    display: block;
+}
+body {
+    background-image: linear-gradient(black, white);
+    
+}
+.info {
+    color: black;
+    margin-right: auto;
+    margin-top: 12px;
+    
+}

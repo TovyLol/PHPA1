@@ -1,0 +1,27 @@
+.pics {
+    width: 100px;
+    height: auto;
+    margin: 10px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: row-resize; 
+}    
+    
+
+.button:hover {
+    background-color: #45a049;
+    font-weight: bold;
+}
+
+body {
+    background-color: lightblue;
+    size: 1px;
+}
